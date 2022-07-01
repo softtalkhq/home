@@ -1,0 +1,51 @@
+Share Article On Site URL
+========================
+
+https://www.facebook.com/sharer.php?u=[Article URL]
+
+ReShare URL
+
+https://www.facebook.com/sharer.php?u=[FbPost URL]
+
+
+WhatsApp
+
+https://api.whatsapp.com/send?text=www.google.com
+
+https://api.whatsapp.com/send?phone=919064979767?text=www.google.com
+
+
+
+Article URL:
+
+[Article URL]
+
+Share URLs:
+[1] Email
+[2] WhatsApp
+
+https://api.whatsapp.com/send?text=[Article URL]
+
+https://api.whatsapp.com/send?phone=91[9064979767]?text=[Article URL]
+
+
+[3] Facebook
+https://www.facebook.com/sharer.php?u=[Article URL]
+[4] Twitter
+[5] Pinterest
+[6] Instagram
+
+Post URLs:
+[1] Facebook
+[FbPost URL]
+[2] Twitter
+[3] Pinterest
+[4] Instagram
+
+
+Reshare Urls:
+[1] Facebook
+https://www.facebook.com/sharer.php?u=[FbPost URL]
+[2] Twitter
+[3] Pinterest
+[4] Instagram
