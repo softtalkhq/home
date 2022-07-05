@@ -1,15 +1,17 @@
+
+Instant result
+Final result
 Toolname
 Platformname
 Toolname of Platformname
-Instant result
-Final result
 
 
-how to use []
-how to get []
-what you should do to get []
-what you should do with []
-what you should do in []
-where to use []
-when to use []
-who should use []
+
+how to use [] to [verb] [final result]
+how to get [] to [verb] [final result]
+what you should do to [verb] [final result]
+what you should do with []  to [verb] [final result]
+what you should do in [] to [verb] [final result]
+where to use [] to [verb] [final result]
+when to use [] to [verb] [final result]
+who should use [] to [verb] [final result]
